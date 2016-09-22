@@ -1,0 +1,16 @@
+.Page {
+    background-color: hsl(0, 0%, 93%);
+}
+
+.Button{
+    padding: 8px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 1.4em;
+    font-weight: 400;
+    line-height: 2.033;
+    border-radius: 6px;
+    background-color:  #3399cc;
+}

@@ -1,0 +1,128 @@
+.Success{
+    background-color: #e4d8d8;
+    top: 1485px;
+    width: 100%;
+    height: 559px;
+    position: absolute;
+
+}
+
+.Success h2{
+    text-transform:uppercase;
+    text-align: center;
+    color:  #565656;
+    font-size: 4.2em;
+    font-weight: 400;
+    line-height: 0.678;
+    margin-top: 60px;
+    margin-bottom: 47px;
+}
+
+.Success-story01, .Success-story02 {
+    width: 34.9em;
+    height: 31.5em;
+    display: inline-block;
+    vertical-align:top;
+    margin-right: 10px;
+}
+
+.Success-story01-inner , .Success-story02-inner{
+    border-radius: 2px;
+    background-color: #ffffff;
+    width: 34.9em;
+    height: 20.8em;
+    margin-bottom: 10px;
+}
+
+.Success-story01-inner-pic , .Success-story02-inner-pic{
+    float: left;
+    display: inline-block;
+    padding: 0;
+    margin: 17px 15px 0 17px;
+}
+
+.Success-story01-inner-story , .Success-story02-inner-story, .Success-story03-inner-story{
+    color: #565656;
+    font-size: 2em;
+    font-weight: 300;
+    line-height: 1.4;
+}
+
+.Inner-mark{
+    margin: 14px 0 0 0;
+}
+
+.bord {
+    width: 90%;
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #dddddd;
+    margin: 15px auto;
+    padding: 0;
+}
+
+.Success-story01-qou , .Success-story02-qou, .Success-story03-qou{
+    padding: 0 17px 0 17px;
+    color: #565656;
+    font-size: 1.413em;
+    font-weight: 400;
+    line-height: 1.415;
+    display: inline-block;
+}
+
+.Success-story01-qouImage , .Success-story02-qouImage, .Success-story03-qouImage{
+    margin-right: 19px;
+    float: right;
+}
+
+.quoBlue{
+    color: #3aa6db;
+}
+
+.Success-story01-images ul , .Success-story02-images ul{
+    width: 349px;
+    display: inline-block;
+}
+
+.Success-story01-images li , .Success-story02-images li{
+    display: inline-block;
+    border-radius: 2px;
+    background-color: #ffffff;
+    width: 110px;
+    height: 97px;
+    margin: 0 6px 6px 0;
+}
+
+.Success-story01-images li:last-child  , .Success-story02-images li:last-child{
+    margin-right: 0;
+}
+
+.Success-story01-images li img , .Success-story02-images li img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Success-story03{
+    width: 22.9em;
+    height: 31.5em;
+    display: inline-block;
+    vertical-align:top;
+}
+
+.Success-story03-inner{
+    border-radius: 2px;
+    background-color: #ffffff;
+    width: 22.9em;
+    height: 20.9em;
+    margin-bottom: 10px;
+}
+
+.Success-story03-inner-story{
+    margin-left: 12px;
+    color: #565656;
+    font-size: 2em;
+    font-weight: 300;
+    line-height: 1.45;
+}

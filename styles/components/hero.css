@@ -1,0 +1,124 @@
+.Hero-slide h2{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: #ffffff;
+    font-size: 4.2em;
+    font-weight: 400;
+    line-height: 1.048;
+}
+
+.Hero-slide p{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color:  #ffffff;
+    font-size: 1.8em;
+    font-weight: 400;
+    line-height: 1.444;
+}
+
+
+.Hero-slide .Button::after{
+    content: "";
+    margin-left: 10px;
+    padding-left: 10px;
+    background-image: url('/img/icons/btnArrow.png');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.Hero{
+    position: relative;
+    top:0;
+}
+
+.Hero ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.Hero-slider {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    transform: translateX(0%);
+    transition: transform .5s ease-in;
+}
+
+.Hero-slide:nth-child(1) {
+    background-image: url('/img/slider/custom-experience.jpg');
+}
+
+.Hero-slide {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 550px;
+    /*height: 100%;*/
+    background-position: center top;
+}
+
+.Hero-sliderNav{
+    position: absolute;
+    top: 250px;
+}
+
+
+.Hero-sliderNav li{
+    border-radius: 5px;
+    width: 11px;
+    height: 11px;
+    background-color: blue;
+    display: inline;
+    margin-right: 10px;
+}
+
+.Hero-articles{
+    position: relative;
+    bottom: -300px;
+    z-index: 1;
+}
+
+.Hero-articles p{
+    color: #ffffff;
+    font-size: 2.4em;
+    font-weight: 300;
+    line-height: 1.25;
+    padding: 10px;
+}
+
+.Hero-articles  li{
+    display: inline-block;
+    margin-right: 35px;
+
+}
+
+.Hero-articles li:last-child{
+    margin: 0px;
+}
+
+.Hero-articles a{
+    color:  #ffffff;
+    font-size: 1.4em;
+    font-weight: 700;
+    padding: 10px
+}
+
+.Hero-articlesLink{
+    border-radius: 6px;
+    width: 290px;
+    height: 174px;
+    box-shadow: 0px 1px 4px 0px #a2a2a2;
+}
+
+.pink{
+    background-color: rgba(255, 51, 153, 0.9);
+}
+
+.green{
+    background-color:  rgba(90, 190, 40, 0.9);
+}
+
+.orange{
+    background-color:  rgba(255, 102, 0, 0.9);
+}
