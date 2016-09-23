@@ -56,27 +56,27 @@
 }
 
 .icon-data{
-    background-image: url('/img/solutions/solution_icon_smart-money.png');
+    background-image: url('../../img/solutions/solution_icon_smart-money.png');
 }
 
 .icon-machine{
-    background-image: url('/img/solutions/solution_icon_machine.png');
+    background-image: url('../../img/solutions/solution_icon_machine.png');
 }
 
 .icon-top{
-    background-image: url('/img/solutions/solution_icon_optimize-efficnt.png');
+    background-image: url('../../img/solutions/solution_icon_optimize-efficnt.png');
 }
 
 .icon-cloud{
-    background-image: url('/img/solutions/solution_icon_cloud.png');
+    background-image: url('../../img/solutions/solution_icon_cloud.png');
 }
 
 .icon-managed{
-    background-image: url('/img/solutions/solution_icon_managed.png');
+    background-image: url('../../img/solutions/solution_icon_managed.png');
 }
 
 .icon-social{
-    background-image: url('/img/solutions/solution_icon_social.png');
+    background-image: url('../../img/solutions/solution_icon_social.png');
 }
 
 .Wedo-section .Button{
@@ -91,7 +91,7 @@
     content: "";
     margin-left: 10px;
     padding-left: 10px;
-    background-image: url('/img/icons/btnArrow.png');
+    background-image: url('../../img/icons/btnArrow.png');
     background-repeat: no-repeat;
     background-position: center;
 }
