@@ -35,7 +35,6 @@
     margin-right: 5px;
 }
 
-
 .Header-nav ul{
     display: inline-block;
     float: right;
@@ -47,8 +46,7 @@
     line-height: 1;
     border-right: 1px solid grey;
     padding-right: 5px;
-
-    }
+}
 
 .Header-aside{
     float: right;
