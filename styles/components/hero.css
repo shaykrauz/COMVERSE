@@ -21,7 +21,7 @@
     content: "";
     margin-left: 10px;
     padding-left: 10px;
-    background-image: url('/img/icons/btnArrow.png');
+    background-image: url('../../img/icons/btnArrow.png');
     background-repeat: no-repeat;
     background-position: center;
 }
@@ -46,7 +46,7 @@
 }
 
 .Hero-slide:nth-child(1) {
-    background-image: url('/img/slider/custom-experience.jpg');
+    background-image: url('../../img/slider/custom-experience.jpg');
 }
 
 .Hero-slide {
